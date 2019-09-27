@@ -7,11 +7,11 @@
 
 - HTTP 통신 라이브러리 Retrofit2 사용하여 웹 서버로부터 무작위의 숫자를 전달 받아 디스플레이 화면에 출력하는 모바일 앱
 
-### 프로젝트 구성 (Project Composition)
+### 프로젝트 구성(Project Composition)
 
 - Nodejs(Server), 10.16.3 64bit
 - Android App(Client), Lollipop v21
-- Retrofit2 API, 2.6.1
+- Retrofit2 API, 2.6.1(Client)
 
 ### License
 ```
