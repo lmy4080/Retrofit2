@@ -11,7 +11,7 @@
 
 - Nodejs(Server), 10.16.3 64bit
 - Android App(Client), Lollipop v21
-- Retrofit2 API, 2.6.1(Client)
+- Retrofit2 API(Client), 2.6.1
 
 ### License
 ```
